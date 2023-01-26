@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-I'm a third year undergraduate student at ITB. I highly enjoy solving <br>challenges, and I am currently actively participating in various Competitive Programming and Capture the Flag events. I also absolutely love creating useful software, and to that end, I have dabbled in a wide variety of projects, including but not limited to desktop applications, web development, android applications, and game development.
+I'm a third year undergraduate student at ITB. I highly enjoy solving challenges, and I am currently actively participating in various Competitive Programming and Capture the Flag events. I also absolutely love creating useful software, and to that end, I have dabbled in a wide variety of projects, including but not limited to desktop applications, web development, android applications, and game development.
 
 
 ## 💻 My Tech Stack:
