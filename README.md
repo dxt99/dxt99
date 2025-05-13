@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-I got an undergraduate from Institut Teknologi Bandung. I highly enjoy solving challenges, and I am currently actively participating in various Capture the Flag. Here are some of my [writeups](https://hackmd.io/@azuketto). I also absolutely love tinkering on automation tools, and to that end, I have dabbled in a wide variety of projects, including but not limited to desktop applications, web development, android applications, and game development.
+I am an undergraduate from Institut Teknologi Bandung. I highly enjoy solving challenges, and I am currently actively participating in various Capture the Flags. Here are some of my [writeups](https://hackmd.io/@azuketto). I also absolutely love tinkering on automation tools, and to that end, I have dabbled in a wide variety of projects, including but not limited to desktop applications, web development, android applications, and game development.
 
 
 ## 💻 My Tech Stack:
